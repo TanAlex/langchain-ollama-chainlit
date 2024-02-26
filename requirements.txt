@@ -1,0 +1,7 @@
+chainlit
+langchain>=0.1.9
+langchain_community>=0.0.24
+PyPDF2
+pypdf
+chromadb
+langchainhub
